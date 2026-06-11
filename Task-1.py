@@ -38,3 +38,5 @@ print(f'R-squared: {r2}')
 
 # Show the predicted prices
 print(f'Predicted Prices: {y_pred}')
+
+#Finish it 
